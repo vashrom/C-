@@ -22,7 +22,7 @@ void createNote(const string& fname)
     file.close();
     cout << "Note successfully added!\n";
 }
-
+//h
 void showNotes(const string& fname)
 {
     ifstream file(fname);
